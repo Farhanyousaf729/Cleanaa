@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Cleanaa/static/css/main.b8141e26.css",
+    "main.js": "/Cleanaa/static/js/main.65d54e5c.js",
+    "static/media/back.jpg": "/Cleanaa/static/media/back.a5136ac54d43fc98a67c.jpg",
+    "static/media/img3.jpg": "/Cleanaa/static/media/img3.a5136ac54d43fc98a67c.jpg",
+    "static/media/img2.jpg": "/Cleanaa/static/media/img2.87ccc90d79dc75e52e4d.jpg",
+    "static/media/img1.jpg": "/Cleanaa/static/media/img1.2669ce93c92972a79df3.jpg",
+    "static/media/background_2.jpg": "/Cleanaa/static/media/background_2.b524c98611b999f8e5e9.jpg",
+    "static/media/img4.jpg": "/Cleanaa/static/media/img4.f1c07cf8a58a4500f97e.jpg",
+    "index.html": "/Cleanaa/index.html",
+    "main.b8141e26.css.map": "/Cleanaa/static/css/main.b8141e26.css.map",
+    "main.65d54e5c.js.map": "/Cleanaa/static/js/main.65d54e5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8141e26.css",
+    "static/js/main.65d54e5c.js"
+  ]
+}
